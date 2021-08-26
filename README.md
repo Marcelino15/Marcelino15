@@ -2,7 +2,7 @@
 Hi my name is Marcelino Tegar Yericho, you can call me Marcel. Now i am working at hospital in Yogyakarta Regency and Freelance at ZadaMedia (https://zadatechno.com/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)](https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)
+[![Linkedin Badge](https://img.shields.io/badge/-marcelino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)](https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)
 [![Instagram Badge](https://img.shields.io/badge/-tegarmarcelino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tegarmarcelino/)](https://instagram.com/tegarmarcelino)
 [![Gmail Badge](https://img.shields.io/badge/-marceldeveloper9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marceldeveloper9@gmail.com)](mailto:marceldeveloper9@gmail.com)
 
