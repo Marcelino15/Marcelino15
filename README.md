@@ -7,7 +7,7 @@ Hi my name is Marcelino Tegar Yericho, you can call me Marcel. Now i am working 
 [![Gmail Badge](https://img.shields.io/badge/-marceldeveloper9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marceldeveloper9@gmail.com)](mailto:marceldeveloper9@gmail.com)
 
 ## ⚡ Technologies
-
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
