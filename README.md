@@ -1,22 +1,63 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-Hi my name is Marcelino Tegar Yericho, you can call me Marcel. Now i am working at hospital in Yogyakarta Regency and Freelance at ZadaMedia (https://zadatechno.com/). I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here
+<!-- Header -->
+<h1 align="center">Hi there, I'm Marcel 👋</h1>
+<h3 align="center">Software Developer | Web Enthusiast | Lifelong Learner</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcelo-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://instagram.com/tegarmarcelino">
+    <img src="https://img.shields.io/badge/Instagram-@tegarmarcelino-purple?style=flat&logo=instagram">
+  </a>
+  <a href="mailto:marceldeveloper9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marceldeveloper9@gmail.com-red?style=flat&logo=gmail">
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-marcelino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)](https://www.linkedin.com/in/marcelino-tegar-yericho-46577b17b//)
-[![Instagram Badge](https://img.shields.io/badge/-tegarmarcelino-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/tegarmarcelino/)](https://instagram.com/tegarmarcelino)
-[![Gmail Badge](https://img.shields.io/badge/-marceldeveloper9@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marceldeveloper9@gmail.com)](mailto:marceldeveloper9@gmail.com)
+---
 
-## ⚡ Technologies
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+### 👨‍💻 About Me
+I’m **Marcelino Tegar Yericho**, a passionate **Software Developer** who enjoys crafting clean, efficient, and maintainable code.  
+I love turning ideas into digital solutions, solving real-world problems, and continuously learning new technologies.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Marcelino15&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelino15&hide=TeX&layout=compact)
+- 💡 Interested in **web development & backend systems**
+- 🤝 Open to **collaboration, freelance, and open-source projects**
+- 📚 Always learning and improving
 
+---
+
+### 🛠 Tech Stack
+#### Languages & Runtime
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js">
+</p>
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap">
+</p>
+
+#### Database & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql">
+  <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=gitlab">
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcelino15&show_icons=true&count_private=true&include_all_commits=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelino15&layout=compact&hide=TeX" height="160"/>
+</p>
+
+---
+
+### 🚀 Let’s Build Something Together
+If you’re interested in collaborating, discussing ideas, or building something impactful —  
+**don’t hesitate to reach out!**
